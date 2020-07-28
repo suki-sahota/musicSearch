@@ -1,2 +1,2 @@
 # musicSearch
-Node.js, JavaScript, and MySQL practice
+Node.js, JavaScript, and MySQL
